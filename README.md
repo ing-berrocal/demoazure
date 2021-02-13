@@ -14,3 +14,5 @@ Configurar la url para autenticación
 ##Configuracion de Spring
 
 Se genera proyecto de springboot con la dependencia de Azure active directory. Se agregan los campos en archivo properties y agregan la anotación para la validación de los roles
+
+https://docs.microsoft.com/en-us/azure/developer/java/spring-framework/configure-spring-boot-starter-java-app-with-azure-active-directory
